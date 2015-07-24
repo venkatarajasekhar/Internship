@@ -1,0 +1,2 @@
+IRS says an asset I disposed (2014) was not computed  using correct worksheet.  I am confused about what I did wrong
+ Chimney on residential rental was declared unsafe to use and was abandoned in place.  2004 low efficiency furnace was disposed,  and new furnace that does not need chimney replaced it. I reported abandonment of old furnace on asset entry worksheet, which created disposition report, which created form 4797 p1.   IRS claims error in not using Schedule D worksheet.   I am confused.what should I have done? 

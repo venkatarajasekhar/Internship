@@ -1,0 +1,6 @@
+form 21 line 24b should be blank but the system doesn&#39;t allow me to delete it
+ Turbo tax keeps saying: Tax-exempt amount-1 does not equal the total entered on Schedule K-1.
+
+I only have 1 number on my k-1 in box 18 " Tax-exempt income and non-deductible expenses.
+
+Should I just ignore the Turbo Tax message?  Do I need to do anything more?  I added the number from box 18 into TurboTax, but it throws up the  error above. rrrrrrr 

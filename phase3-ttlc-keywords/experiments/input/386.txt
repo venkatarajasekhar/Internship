@@ -1,0 +1,2 @@
+Should I setup payments for online marketplace to split 90/10 automatically or receive the full payment and payout commission?
+ I'm hosting an online marketplace.  I have two possible payment processing options.   1. Receive full payment then pay vendor their 90% commission. 2. Have payment split automatically 10/90 at time of sale.   Which is the better option in terms of tax prep/liability. 

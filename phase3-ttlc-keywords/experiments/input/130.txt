@@ -1,0 +1,2 @@
+Other additions/subtractions stmt (225): subtractions - code S-130 error
+ Other additions/subtractions stmt (225): subtractions - code S-130 must be entered.  When I enter 0, I then get another error message saying that Code S-130 should not be entered if taxpayer is not at least 59 1/2 years old.  Will not allow me to submit my NY state tax form. 

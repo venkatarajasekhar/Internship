@@ -1,0 +1,3 @@
+Calculations are incorrect on 2014 income
+ Income and deductions are almost identical in 2013 and 2014.  On the summary sheet, the calculations are incorrect.  It is showing that $100,047 income minus $22,700 federal deductions equal $50,315 vice the correct answer of $77,347.  I cannot continue because it is obviously wrong.  Have never had this problem with turbotax before.  Help!!
+ 

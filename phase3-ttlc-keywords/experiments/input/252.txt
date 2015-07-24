@@ -1,0 +1,14 @@
+Why Turbotax requires me to use paper forms to refigure my 2013 tax return to see if any money can be saved due to AMT in 2013? Why can&#39;t Turbotax do it with software?
+ Turbotax prompted me to use the following paper method to calculate if I can save some money because I paid AMT last year. Below if from Turbotax: 
+************************************
+Paper Method
+1.	Subtract the total amount of your state and local refunds received in 2014 and any refunds applied to 2014 taxes from your total tax deduction on your 2013 Schedule A, line 5. Based on your entries, subtract $xxxx from the total deduction of $xxxxx. The remainder is $xxxxx.
+2.	Enter this remainder on a paper 2013 Schedule A, line 5. Enter your remaining itemized deductions on the paper Schedule A from your original return.
+3.	Total your new itemized deductions on the paper form. Enter this amount on a new 2013 Form 1040, line 40. Fill in the other amounts on the new Form 1040, lines 7 through 39 and line 42 from your original return.
+4.	Refigure lines 40, 41, 43 and 44. Use the tax tables in the Form 1040 instructions to calculate your tax amount.
+5.	Refigure your 2013 Form 6251 Alternative Minimum Tax (AMT), using the new amounts on Form 1040 and Schedule A. Explain AMT
+6.	Enter the new AMT result from Form 6251 on Form 1040, line 45.
+Don't want to do this? 
+***** 
+
+The last question is a funny one and it gives me the option not to do it. But why can't turbotax spit out the number? I did 2013 tax return with turbotax and all the info is available. Isn't this what Turbotax is paid for? 

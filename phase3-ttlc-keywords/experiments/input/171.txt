@@ -1,0 +1,2 @@
+How do I get Form1099 -B worksheet info to flow to Schedule D and Form 8949
+ I want to attach copies of my brokerage statement transactions and just report totals on Form 8949 

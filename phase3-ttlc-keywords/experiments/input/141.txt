@@ -1,0 +1,2 @@
+I did not file a state income tax return for Illinois in 2012. I need to file one now. How do I do this?
+ There are entries that show up on the preview of the 8949 Form that are not listed transactions in the data entry screens!  I can't remove them.  They apparently were imported transactions.   However, they also appear on the straddles form, so they are being counted twice.     I'm unable to manually edit the 8949 entries for these transactions to remove them.   They don't actually exist it seems until I preview and see them appear. help! 

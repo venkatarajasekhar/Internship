@@ -1,0 +1,2 @@
+How do I enter both short and long term sales of shares in a limited partnership in the K-1? In the step-by-step, it asks for just one acquisition date and one sell date.
+ I tried entering "various" in the acquisition and sell dates, but I wasn't prompted to enter different dates so I could enter both the short term and long term sales. 

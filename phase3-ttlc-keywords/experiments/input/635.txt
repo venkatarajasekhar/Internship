@@ -1,0 +1,2 @@
+NY non resident wages double counted for NJ resident Return
+ I am an NJ resident and my total wages include amount earned in NY (same employer). My federal W2 box 16 shows total income (includin NY income) against NJ State and I entered the same amt while doing my Fed return. However for NJ state return purpose, Turbotax added the NY income to the Fed W2 box 16 amt (which already includes the NY income anyway), thus duplicating it. Please clarify. 

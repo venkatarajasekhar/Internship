@@ -1,0 +1,2 @@
+Unlike 2013, I am missing depreciation schedules for my trucks. The system indicated it knows what they are, but I bought some additional equipment and it&#39;s all missing
+ For some reason it capped the deductions and disallowed accelerated depreciation on the trucks. However, it allowed it on the trailers. Any ideas? 

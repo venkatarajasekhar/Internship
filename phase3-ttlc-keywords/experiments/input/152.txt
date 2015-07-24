@@ -1,0 +1,2 @@
+efile scripting error line 218 char 13, also invalid amount from 1040EZ line 6 = 0 to State -350
+ when moving to efile page I received an efile scripting error.line 218 char 13 error console is undefined code 0 https://shop.turbotax.intuit.com/ttd/ty13/alias/branching/refund-1 

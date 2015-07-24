@@ -1,0 +1,33 @@
+INSTRUCTIONS
+THIS FOLDER HAS SCRIPT FILES AND SAMPLE FILES RELATED TO EXPERIMENTS ON TTLC DATASET 
+
+* Folder Descriptins 
+* Sim - contains source code relted to tagger with grammar from Sim's paper
+* Rake - contains source code related to tagger which uses RAKE algorithm
+* Textblob - contains source dode related to tagger which uses Textblob's defualt NP chunker 
+* input - contains 750 text files. Each file contains one TTLC query. The first line of each file contains question followed by its description
+* original_tags - contains 750 files contaning tags corresponding to each file in input directory
+* Compare - contains source code for calculating Precison and Recall.
+* sample_out - sample_out contains predicted output tags using Rake algorithm 
+
+RUNNING EXAMPLES:
+
+* create an empty output directory before you start executing 
+
+format: python Rake/automatic_tagger.py <tag list> <directory containing input files> <output directory>
+> python Rake/automatic_tagger.py existingtags input outputdir 
+
+format: python Sim/tagger_simchunk.py <tag list> <directory containing input files> <output directory>
+> python Sim/tagger_simchunk.py existingtags input outputdir 
+
+format: python Textblob/tagger_npchunk.py <tag list> <directory containing input files> <output directory>
+> python Rake/automatic_tagger.py existingtags input outputdir 
+
+File corresponding to each file in the input directory will be created containing predicted tags
+
+format: python Compare/comparison.py <directory-containing-original-tags> <directory-containing-predicted-tags>
+> python Compare/comparison.py original_tags sample_out 
+
+Output contains three lines. Second line represnts Precision(%) and third line recall(%)
+
+

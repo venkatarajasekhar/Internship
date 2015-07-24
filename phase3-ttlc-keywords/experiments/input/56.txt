@@ -1,0 +1,2 @@
+llc date of ownership -  error date of change not between the prescribed dates.  what are the dates?
+ I entered any date and the reply is always the same.------  date of change #n is not between the prescribed dates 

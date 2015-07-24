@@ -1,0 +1,2 @@
+Is Wisconsin Form 1NPR, line 15 bugged?
+ I have the info to enter into form 1NPR pg1 line 15, but whenever I try to enter a description on the line, it creates a new line I need to enter a description on. This seems like a major bug to me and I'm not sure what to do about this. 

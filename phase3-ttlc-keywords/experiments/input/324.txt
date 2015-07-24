@@ -1,0 +1,2 @@
+Problem importing Fidelity 1099-B with options trades.
+ When one opens a publicly traded stock option position by selling (i.e. shorting) it and it subsequently expires worthless, Fidelity reports the cost basis as 0, which is the correct handling.  But when I import these transactions from Fidelity's 1099-B, Turbotax interprets the 0 cost basis as a missing value and forces me to enter a 0 for each of these trades.  Please fix this. 

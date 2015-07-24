@@ -1,0 +1,2 @@
+Software will not create a 1040x after using amend return feature.  States it cannot detect differences between original/amended return.  How can I create 1040x?
+ I am using 2013 version.  I used the amended return feature and added info for a K-1, but software states there is no difference in returns even though the values changes and the original refund became an amount due.  How can I get the software to produce the 1040x or can I create it manually? 

@@ -1,0 +1,3 @@
+I need to put a value in Form 1040 on line 60b but without a Form 5405 being created by turbo tax.
+ Our Form 5405 is not required as we filed our 5405 in our 2013 taxes. However, we need to pay the remaining balance of the credit this year.
+I need this entry without the 5405. 

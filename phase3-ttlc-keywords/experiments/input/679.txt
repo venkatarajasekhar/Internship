@@ -1,0 +1,9 @@
+computing cost basis on company stock awards
+ I was awarded company stock in 5 separate instances starting in December 2013 until May 2014. Each award had a gross amount of shares at an issue
+price. The amount of total shares was multiplied by the issue price and added onto my W-2 as income. Each award had a gross amount of shares,
+but was reduced each time by approximately 30% of the shares to pay the
+taxes up front. I then had a net of 70% of the shares put into an account for
+me. I sold about half of my total in December 2014. I received a 1099-B for
+the sale that had the proceeds, but no basis. How do I figure the cost basis for these shares? Is it simply to figure the amount of shares held back to pay the taxes multiplied by the issue price?  I also had to pay some fees to the
+brokerage company when I sold. If I use first in, first out, everything I sold is
+long term cap. gain. If I average all the shares and their issue price, some would be held less than a year and be short term. HELP!! 

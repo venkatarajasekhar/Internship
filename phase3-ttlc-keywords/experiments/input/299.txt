@@ -1,0 +1,2 @@
+[Duplicate] how do i get to javascript.window.parent.createNewFrame
+ Form 3800 shows money that should not be there.  Need to delete it. 

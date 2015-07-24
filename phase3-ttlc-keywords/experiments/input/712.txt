@@ -1,0 +1,2 @@
+schedule C form 8824 link-1
+ Schedule C (Real Estate Broker) -- Car &amp; Truck Expenses Worksheet (Volkswagen Jetta): Form 8824 link-1 should be blank. You have linked vehicles with different holding periods (i.e.: short-term and long-term) to the same Form 8824. Multiple vehicles can only be linked to the same Form 8824 when they are all components of a single asset. See Form 8824 Tax Help for instructions on entering a transaction involving multiple assets. 

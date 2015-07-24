@@ -1,0 +1,3 @@
+Why is tax due different between TurboTax and IRS?
+ I have received a "Corrected" 1040X from the IRS.  TurboTax calculated the tax due on $261,200 as $61,881 (using method "QDCGTW") and the IRS calculates the tax due for the same amount as $62,514 (method not listed).  The total amount of dividends, interest, kind of income, etc are identical in both cases.
+ 

@@ -1,0 +1,2 @@
+Smart Check entry &quot;Form 4562 Depreciation Options: Total cost of eligible Sec 179 property placed in service by spouse must be entered.&quot;
+ I get an entry check when running the Smart Check: "Form 4562 Depreciation Options: Total cost of eligible Sec 179 property placed in service by spouse must be entered." What does this mean? 

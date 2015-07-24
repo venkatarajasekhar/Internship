@@ -1,0 +1,3 @@
+foreign earnings section doesn&#39;t work
+ This is a C corporation with a June 30, 2014 yearend so I am using the 2013 tax package.
+ 

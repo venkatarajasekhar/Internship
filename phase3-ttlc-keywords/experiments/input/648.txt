@@ -1,0 +1,3 @@
+How to over-ride incorrect net proceeds calculation from ESPP?
+ How to over-ride incorrect net proceeds calculation from ESPP sale of LT stock - 9457(TP) - 25.21(SE) = $94.57(NP)?? Net should be - $9432. TTax is showing a capital loss??  Or make it right?
+ 

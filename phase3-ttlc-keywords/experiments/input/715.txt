@@ -1,0 +1,2 @@
+Online Import from broker (Fidelity) is adding Div and gains, leaving1099-B blank
+ TT adding capital gains to the ord. dividends (entered as 1099Div), and leaving 1099-B empty.  How do we correct this.  The tax reporting statement is correct 

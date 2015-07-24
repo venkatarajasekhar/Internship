@@ -1,0 +1,3 @@
+CSA 1099R  Block 2a Shows &quot;unknown&quot;,  I left blank (not &quot;0&quot;), turbo tax shows the &quot;Gross&quot;  amount as &quot;non-taxable&quot; on the income summary sheet.  Is that correct?
+ One of the answers said to "Check" block 2B.  There is no block 2B showing on Turbo Tax
+ 

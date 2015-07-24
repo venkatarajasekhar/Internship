@@ -1,0 +1,3 @@
+I have Turbo Tax Home and Business 2014 - I am trying to connect to my banks, but I cannot paste my password in the field!  The password is 60 random characters!!
+ I have Turbo Tax Home and Business 2014 (downloadable, PC) - I am trying to connect to my banks, but I cannot paste my password in the field!  The password is 60 random characters!!
+ For the love of god please allow the pasting of passwords for those of us who have secure random passwords for our banking sites created using things like OnePassword, Keepass, LastPass, etc...   

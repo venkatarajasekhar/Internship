@@ -1,0 +1,3 @@
+new computer, installed turbotax 2014, says CA is installed but when I do a new tax return CA is not there
+ When I look up another tax return that includes CA return, it is there but when I start a new tax return, the CA program is not there.  Program says that CA forms are downloaded but I can't get to them for the new return.
+ 

@@ -1,0 +1,10 @@
+How to get Schedule K1 (1065) box 11F onto Schedule D, Line 12?
+ I have a Schedule K-1 (form 1065) with a  loss reported in box 11F. A note at the bottom of form states the following: ANY AMOUNT REPORTED IN BOX 11F REPRESENTS PASSIVE LONG-TERM CAPITAL LOSS, AND IS REPORTABLE ON SCHEDULE D, LINE 12. Type F is "Other Income" and I recorded it is a Net long-term capital gain(loss) not portfolio income.  However, Turbo tax is not cascading it to Sched D, line 12? Am I missing something or do I have to override something? I read the link for : How can I get the number from a K-1 Box 11F onto Sch D line 12? But that was from 9 months ago and does not appear a viable solution but just a workaround for the program to get the end.
+Yes, that does pass the amount to Sched D, line 12, but according to the IRS instruction sheet for Schedulke K-1 (form 1065) so should 11F. There are multiple scenarios but one does state going to Sched. D , line 12
+
+Code F items may include the following. ?
+    •    Net short-term capital gain (loss) and net long-term capital gain (loss) from Schedule D (Form 1065) that is not portfolio income. An example is gain or loss from the disposition of nondepreciable personal property used in a trade or business activity of the partnership. Report total net short-term gain (loss) on Schedule D (Form 1040), line 5. Report the total net long-term gain (loss) on Schedule D (Form 1040), line 12. ?
+
+Entering in box 9a would programmatically get me to line 12, but I believe it may need to go through other forms as well.
+This may be bug?
+ 

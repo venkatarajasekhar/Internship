@@ -1,0 +1,2 @@
+How do I get Sch E to Link with Sch K-1?
+ I keep getting the following error message in the review:  Sch K-1 Wks-Partnerships (Company XYZ): Sch E worksheet link must be established. Royalty income and expense is reported on Schedule E. Link to the applicable copy of Schedule E Worksheet. Also report any out of pocket royalty expenses on that worksheet. 

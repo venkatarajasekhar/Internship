@@ -1,0 +1,2 @@
+line 45 asset entry worksheet
+ Smart check says that a selection needs to be made for type of depreciation. It doesn't give me any help as to what selection to make. 

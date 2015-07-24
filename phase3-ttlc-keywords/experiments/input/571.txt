@@ -1,0 +1,2 @@
+foreign earned income and exclusion
+ It seems like the exclusion on my foreign earned income is not taken into consideration when calculating total taxable income. Where should I see the income exclusion? 

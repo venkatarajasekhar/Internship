@@ -1,0 +1,5 @@
+Is there a bug in gaps in Insurance Coverage for part-year resident?
+ I have listed that I was a resident for 4 consecutive months. In the following screen I listed that I had insurance coverage for 3 consecutive months of the 4 months I chose on the previous screen. In the next screen, I'm told I have a 9 month coverage gap and I'm treated by the software as if I owe a penalty for it. It ignores the screen where I indicated that I only lived in the state for 4 months. The gap should only be 1 month, not 9 months.
+
+The software says my options are to pay the penalty fee or write an appeal. Neither should be necessary, so I cannot proceed.
+ 

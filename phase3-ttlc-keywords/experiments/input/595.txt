@@ -1,0 +1,2 @@
+Why is form 8962 calculating correctly.  No Line 5 to line 8 calculations?
+ So I was reviewing my returns, and noticed that the form 8962 did not calculate ANYTHING.   Lines 5, 6, 7, 8a and 8b do not calculate, AT ALL... Even going through and amending a return....  I cannot get it to calculate correctly.   Calculating it on paper makes all the difference sometimes.   

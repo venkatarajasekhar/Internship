@@ -1,0 +1,2 @@
+The network connection was lost on my Mac when attempting to transmit returns
+ Finalized and reviewed for errors and everything is ready to transmit.  I click on transmit and the first two steps come back with check marks but when it gets to validation that is as far as it gets.  Then responds with network connection lost. 

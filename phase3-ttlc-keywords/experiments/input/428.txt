@@ -1,0 +1,2 @@
+According to the instructions for for 8949, there are more than a dozen codes, but TurboTax only lets me pick 3.  It says code B is invalid.
+ 1099-B has incorrect cost basis but your software won't let me correct the basis with a code form the 8949 instructions. 

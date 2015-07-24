@@ -1,0 +1,2 @@
+Why am I get a audit message on S100?
+ S100 keeps coming up with an audit message saying my liablilites and assets do not match.  Does this form not just transfer all required numbers?  This is a business return 

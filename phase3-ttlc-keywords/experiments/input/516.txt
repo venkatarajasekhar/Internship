@@ -1,0 +1,2 @@
+How do I delete PIT-CG Caregiver&#39;s Statement from my state tax return?
+ My understanding is that Part 2 should be the Total UnAdjusted amount of Foreign Taxes paid, and then on Line 12 you calculate the Foreign Tax Reduction, based on Form 2555 and percentage of income excluded etc.  However TurboTax is populating Line 12 with the total amount entered into Part 2 - what are the correct entries? 

@@ -1,0 +1,2 @@
+Turbotax is not updating federal tax due
+ I have been working on taxes for a couple of weeks. Went through the analysis, etc. Now when I go back in to update fields they are no longer adjusting the Federal Income Tax Due display at the top. For some reason changes are no longer being reflected. 

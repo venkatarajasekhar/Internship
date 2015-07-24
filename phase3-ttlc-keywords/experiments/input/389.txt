@@ -1,0 +1,2 @@
+I tried using a different browser and I&#39;m still having a problem with just the tabs (not the entire page) of the Federal Taxes portion refreshing constantly.
+ I finished filling my personal info and now i have to fill the federal taxes but the window keeps on moving and it doesn't show me nothing. it appears and disappears 

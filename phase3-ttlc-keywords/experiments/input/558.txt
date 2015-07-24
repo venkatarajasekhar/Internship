@@ -1,0 +1,8 @@
+The VT State Smart Check is stuck in a loop on Forms IN-111 Line 27 Use Tax.
+ The Smart Check says that the value is too small, so I update it. The Smart Check then says that Line 27 Use Tax should be empty.
+
+There is a video of my issue here:
+
+http://screencast.com/t/JfdfLCE78zb
+
+I can't file without resolving this issue. 

@@ -1,0 +1,2 @@
+w2 has rsu income for stock that was not sold
+ I got a block of RSUs that vested, but was not sold in 2014.  My W2 has the income, but since the stock was not sold, I can't put it under stock sales.  I'm getting an error because there is a discrpancy between what is in my W2 and what is declared in the stock sales. 

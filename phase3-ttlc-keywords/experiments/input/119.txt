@@ -1,0 +1,4 @@
+2013 schedule c did not transfer to 2914
+ The 2014 Turbo Tax Home and Business version incorrectly handles ISO exercises of 100,000 or more shares, resulting in an incorrect AMT Form 6251.  
+ If you enter a Form 3921 during the interview process with 100k or more shares, Turbo Tax silently resets the number of shares to zero.  If you try to enter a value of 100k or more shares in column 3c of the Exercise of Stock Options Worksheet, Turbo Tax will complain that the number is too large (although it will accept 99,999) and reset it to zero.  Once that value is set to zero, line 14 of Form 6251 is also set to zero.
+ 

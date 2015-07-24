@@ -1,0 +1,2 @@
+turbotax not totaling correctly
+ other common business expenses show $15,000.  But when I click edit and tally the items in this section, they total $24,036. 

@@ -1,0 +1,2 @@
+When reviewing I keep getting promoted to correct and entry but the instructions to correct it do not make sense, I have copy pasted the prompt below:
+ "To associate this W-2 with the proper tax form, go to EasyStep Navagator from the progress bar, select and edit the Form W-2 associated with Statutory employee income and enter the appropriate information on the screen labeled "Reporting Statutory Employee Income"" 

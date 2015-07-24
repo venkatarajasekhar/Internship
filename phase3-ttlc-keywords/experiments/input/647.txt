@@ -1,0 +1,10 @@
+Check This Entry Form 2106 (Assembly Technician) -- Vehicle Expenses Worksheet (Buick Lacrosse): Standard mileage question-1 should be blank.
+ Check This Entry
+Form 2106 (Assembly Technician) -- Vehicle Expenses Worksheet (Buick Lacrosse): Standard mileage question-1 should be blank. It only applies to vehicles placed in service in prior years.
+No entry
+Std mileage question, Yes
+Std mileage question, No
+
+Hello, I have checked the option Std mileage question,no.
+Is that the action the fixer is indicating i do? My vehicle was purchased in 2013 but not used for business until 2014.
+With this option checked, when i run smart check it indicates this need to be fixed. Advice? Thanks for you help. 

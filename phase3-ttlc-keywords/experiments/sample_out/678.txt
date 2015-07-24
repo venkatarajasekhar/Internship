@@ -1,0 +1,6 @@
+return 
+state 
+2012 
+federal 
+estates 
+agi 

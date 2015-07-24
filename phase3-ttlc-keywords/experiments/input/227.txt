@@ -1,0 +1,2 @@
+It seems that there is a bug for form 8283?  It will not allow &quot;various&quot; for &quot;date acquired&quot; and it will not allow &quot;cost basis&quot; to be blank.
+ Per IRS instructions a gift of stock purchased over a period of time should have a date acquired = various.  Also for stock held more than 1 year the cost basis should be left blank. 

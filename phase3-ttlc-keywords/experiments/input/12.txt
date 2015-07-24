@@ -1,0 +1,2 @@
+Why is line 13a of my 1040EZ form blank, but my state refund amount is listed as accepted?
+ The State of Alabama is not showing any information for my state refund. When I log into Turbo tax, it lists my state refund amount and says it's accepted. When I went to verify that I was entering the correct amount and filing status, I noticed that the actual form is missing the refund amount on line 13a of my 1040EZ form. Why is that? 

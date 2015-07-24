@@ -1,0 +1,2 @@
+I receive this error message &quot;1NPR, Pg 1 &amp; 2: Line 15-Oth Income Desc-6 must be entered&quot; but when i enter a description, it moves the entry down and Desc6 becomes Desc7
+ TurboTax 2014. 

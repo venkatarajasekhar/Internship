@@ -1,0 +1,2 @@
+MA Form 1099-HC is broken.. I can&#39;t edit or submit them, and the only error I get is, &quot;Taxpayer&#39;s Health Insurance Worksheet: Page 2 Name has too many characters.&quot;
+ 

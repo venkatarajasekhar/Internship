@@ -1,0 +1,5 @@
+health 
+penalties 
+healthcare 
+penalty 
+health insurance 

@@ -1,0 +1,3 @@
+Can you fix the endless loop defect for Health Insurance immediately?
+ Like so many other people, I am getting the endless loop when clicking "Review" says I haven't finished Health Insurance, clicking "Health Insurance" says I need to provide info, clicking "Continue" throws me to the next tab.  I have tried deleting and entering both my and my spouse's SSN.  Doesn't fix anything.
+ 

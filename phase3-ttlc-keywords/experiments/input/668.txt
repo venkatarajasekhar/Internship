@@ -1,0 +1,4 @@
+How to report disposition of assets for S corp without a purchase value? [Schedule K-1, box 17K]
+ I'm a shareholder of an S corp and I have my Schedule K-1 and in box 17K STMT is listed. So I go to the accompanying attached form with supplemental information that has all of the Disposition of Assets with Prior Section 179 expense. I enter all the information that I have and when I get to the filing smart check...I get told that the depreciation can't exceed the purchase value of the item.
+
+There is no purchase price listed on the supplemental information - is this something that I need to get or am I just completely incorrectly entering this information? 

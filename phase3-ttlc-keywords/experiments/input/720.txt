@@ -1,0 +1,2 @@
+My 2014 Oklahoma tax software is malfunctioning. How can I get technical help with this problem?
+ On the "Summary of Oklahoma Capital Gains and Losses" page, when I click to edit a particular item, the detail for a different item comes up.  If I enter the info for the item than comes up, it is posted to a different item or disappears. I tried going to Oklahoma Form 561 to enter the data directly onto the form, but when I return to EasyStep, the information is missing or garbled.  I am stuck. 

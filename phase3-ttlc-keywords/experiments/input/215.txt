@@ -1,0 +1,2 @@
+on the form I am trying to do my stock sale it has entered the shares amount of 122 twice. I need to take second one off . it won&#39;t let me
+ how can I erase it? 

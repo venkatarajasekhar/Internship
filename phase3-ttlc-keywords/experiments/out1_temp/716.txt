@@ -1,0 +1,4 @@
+capital gain/loss 
+1099-b 
+state returns 
+return 

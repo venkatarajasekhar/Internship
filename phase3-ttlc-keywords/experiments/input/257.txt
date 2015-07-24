@@ -1,0 +1,2 @@
+My amended return is not printing my amended amount?
+ When I go to print the amended return, it shows the amounts owed prior to the amendment???!!! 

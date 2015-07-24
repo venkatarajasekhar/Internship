@@ -1,0 +1,2 @@
+Why did you give me a child tax credit on my NY tax form when I didn&#39;t, qualify for it? Now I have to pay extra tax plus interest.,
+ When one opens a publicly traded stock option position by selling (i.e. shorting) it and it subsequently expires worthless, Fidelity reports the cost basis as 0, which is the correct handling.  But when I import these transactions from Fidelity's 1099-B, Turbotax interprets the 0 cost basis as a missing value and forces me to enter a 0 for each of these trades.  Please fix this. 

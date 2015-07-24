@@ -1,0 +1,2 @@
+window wont stop blinking under federal tax tab. I am using a Chromebook. I can not enter anything. It stops blinking when I go to other tabs.
+ I finished filling my personal info and now i have to fill the federal taxes but the window keeps on moving and it doesn't show me nothing. it appears and disappears 

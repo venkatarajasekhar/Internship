@@ -1,0 +1,3 @@
+Remove 0 from Oklahoma Sch511NR-B, causing reject of return.
+ 412597521 was/is incident number.  I called OK Tax Comm.  The problem is there are 0 listed on the state form for Ok and not federal, How can I add/delete 0 from 511NR-B.
+ 

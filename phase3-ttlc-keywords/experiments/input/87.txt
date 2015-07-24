@@ -1,0 +1,3 @@
+How can I match Schedule L with the Books Balance sheet(GAAP Basis) when a business has claimed Section 179 deductions and fully depreciated the asset for tax Purpose?
+ I told Turbo Tax that I stopped renting out the property, and it was completely removed from my 2014 8582 form.  This had no impact in 2014, since I could not use the passive losses; however, I may sell it in future years and will want to recapture those passive losses.  I'm told that I need to file a 1040X and 540X (California).  Can I simply go into Turbo Tax "forms" and manually enter the info?  Will it carry forward to future years as well?
+ 

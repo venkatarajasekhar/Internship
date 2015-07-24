@@ -1,0 +1,4 @@
+Turbo Tax Deluxe software bug?
+ I am using TurboTax Deluxe and have completed the 2014 Fed return but when I go to start the California return I am put in a loop:  After the save, the program returns me to the "Start" page for California instead of taking me to the first stage of completing the CA return, so is there a bug in the software?
+ 
+ 

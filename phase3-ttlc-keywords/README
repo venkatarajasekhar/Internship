@@ -1,0 +1,25 @@
+INSTRUCTIONS
+THIS FOLDER HAS SCRIPT FILES OF DIFFERENT KEYWORD METHODS IMPLMENTED  
+
+* Folder Descriptions 
+* Sim - contains source code relted to tagger with grammar from Sim's paper
+* Rake - contains source code related to tagger which uses RAKE algorithm
+* Textblob - contains source dode related to tagger which uses Textblob's defualt NP chunker 
+* input - folder contaning input files 
+* sample_output - folder contaning output file corresponding to test.inp in input directory with Rake algorithm 
+* experiments - Everything related to the experiments is present. Please look at the README file in the experiments folder for further details 
+
+RUNNING EXAMPLES:
+
+format: python Rake/rake.py  <input-file> 
+> python Rake/rake.py  input/test.inp 
+
+format: python Sim/simnpchunk_rake.py  <input-file>
+> python Sim/simnpchunk_rake.py  input/test.inp
+
+format: python Textblob/npchunk_rake.py  <input-file>
+> python Textblob/npchunk_rake.py  input/test.inp
+
+The output is a list of keywords for the given input file 
+
+

@@ -1,0 +1,6 @@
+TurboTax question regarding ETP K-1 address data entry for APU and SXL
+ I recently received my K-1 for ETP which I sold in 2014.Included in this K-1, is K-1 data for APU and SXL which ETP apparently owns part of.I will be entering a separate TT K-1 for APU and SXL.The FEIN number for these, which are required by TT is in the ETP K-1 info I go...however, their respective addresses are not. TT Premier, which is what I am using, requires that I enter this address info for each K-1 that I enter.
+
+What address should I enter for these since the address is not shown in the K-1 info I got from ETP (only the ETP address is shown in that material).  Thanks
+ 
+ 

@@ -1,0 +1,4 @@
+Is there a software error on worksheet 8829 line 5? It doesn&#39;t appear to be totaling Gross income (line 1) or (from schedule C) plus lines 3 and 4 for gross income
+ which is resulting in a negative amount when line 6 (total expenses- which are less than gross) is subtracted from line 5. My schedule C gross income is 3 times the amount of expenses and home deduction is less than 10 % of gross income. When I checked all my forms, it appears to be the error on the worksheet for form 8829 not allowing the home office deduction since line 9 incorrectly shows a negative number. Thank you
+ 
+ 

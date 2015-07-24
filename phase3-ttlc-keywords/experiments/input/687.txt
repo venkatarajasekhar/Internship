@@ -1,0 +1,2 @@
+I need to fix the business section with other gains/losses
+ There is a number in this section that I don't know where it is coming from. 

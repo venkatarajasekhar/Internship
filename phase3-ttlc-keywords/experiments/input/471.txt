@@ -1,0 +1,2 @@
+turbotax is stuck in loop when it asks me fill out &quot;Other Tax Situations&quot;
+ other common business expenses show $15,000.  But when I click edit and tally the items in this section, they total $24,036. 

@@ -1,0 +1,2 @@
+I am getting this message with smart check but don&#39;t know how/where to fix it
+ "Schedule E Worksheet (1024 W 32nd Street #2) -- Asset Entry Worksheet (1024 W 32nd Street): Home Sale Worksheet Link should be blank. Assets with disposition losses cannot be linked to the Home Sale Worksheet." 

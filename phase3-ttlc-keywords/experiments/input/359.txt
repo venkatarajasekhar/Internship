@@ -1,0 +1,2 @@
+how to edit line 12
+ I need to delete 0.00 on line 12 

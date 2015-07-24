@@ -1,0 +1,6 @@
+state 
+income 
+federal 
+w2 
+state income 
+foreign income 

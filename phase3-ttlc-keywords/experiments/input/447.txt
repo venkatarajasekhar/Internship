@@ -1,0 +1,2 @@
+medical expenses incorrect
+ Last year I had medical expenses, this year none, somehow TurboTax entered medical expenses for me for this year.  All the boxes within the guidance are set to 0, but still shows over $12000 on my summary 

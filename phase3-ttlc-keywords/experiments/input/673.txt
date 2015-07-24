@@ -1,0 +1,2 @@
+I sold ESPP stock in 2014.When filling out the 1099-B data, I choose that it needs special handling for being ESPP. Do I then need to enter 3922 data for every line item?
+ I sold some ESPP stock in 2014. When filling out the 1099-B data, TurboTax asks, for each line item, if it requires special handling for ESPP stock.  I choose yes, and am asked to enter my 3922 data for every single line on the 1099-B.  Do I enter the same 3922 data multiple times (20+ times)? 

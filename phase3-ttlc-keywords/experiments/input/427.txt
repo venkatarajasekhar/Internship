@@ -1,0 +1,2 @@
+duplicate 1099g on state? error 1099G-022
+ My state return has been rejected twice for this yet the program says there are no errors. 

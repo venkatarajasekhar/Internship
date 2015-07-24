@@ -1,0 +1,2 @@
+How to remove dependent care provider and dependents from state return?
+ I initially filed returns with 3 dependents but erronesly, I was able to remove the two dependents from federal return but on state there is some kinda of error and there is still showing without any information, its causing the return to say its not eligible for e-filling. 

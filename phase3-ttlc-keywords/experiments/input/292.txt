@@ -1,0 +1,2 @@
+Im trying to apply for health indurance expemption. The site guide me through everything but wont create application
+ When I go to download the state tax forms within the Turbo Tax software (on a Mac). It says: "The state you selected isn't available yet. We expect to have Utah forms available 12/22/2011." - Clearly it's 2015, so these forms should be available. Do I have to do something manually to get this working? 

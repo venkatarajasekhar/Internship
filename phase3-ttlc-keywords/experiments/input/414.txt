@@ -1,0 +1,2 @@
+download problem with an update that locked up the turbo tax program on my computer and I cannot use the program now. What should I do?
+ The file cannot be installed because the file cannot be found in Cabinet file "Turbo Tax. cab" This could indicate a network error, an error reading from the CD-Rom or a problem with the package.  This is the message I get on my computer. 

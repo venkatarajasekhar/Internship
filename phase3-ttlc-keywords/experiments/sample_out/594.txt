@@ -1,0 +1,7 @@
+return 
+deductions 
+income 
+business income 
+state returns 
+k-1 income 
+business 

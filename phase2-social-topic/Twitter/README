@@ -1,0 +1,14 @@
+THIS FOLDER HAS FILES RELATED TO TOPIC EXTRACTION FROM TWITTER DATA 
+
+Folder Descriptions 
+* src - contains source files
+* input - contains input .csv files 
+* sample_output - contains output corresponding to vodafone.csv file in the input directory
+
+
+EXAMPLE:
+
+format : python src/main.py <input-csv-file>
+> python src/main.py input/vodafone.csv
+
+**** The input csv file should of specific format . Please look at the sample input files in the input directory for the exact format

@@ -1,0 +1,3 @@
+2014 Return is showing a1099 misc from 2013.  How do I get the 1099 misc from last year off this year&#39;s eturn?R
+ I imported last year's 2013 return which showed a 1099 misc for a PC.  That PC did not generate a 1099 misc in 2014.  For the 2014 Return, I entered 2 different 1099 misc's.  When I go to print the 2014 return, it shows the PC from the 2013 1099 misc as the only 1099 income and does not show the two entities from 2014 which generated a 1099 misc which were properly entering in TuroTax in the income section.  How do I get rid of the name, address etc. from the 2013 1099 misc and replace it with the info for the 2 2014 1099 misc? Thanks.
+ 

@@ -1,0 +1,2 @@
+Can TurboTax reload amended Brokerage forms after already loaded the original forms?
+ I am in the midst of preparing my taxes and already had Turbo Tax load the original (non-amended) 1099 forms from my brokerage firm. Can/How I get Turbo Tax to reload the amended forms? 

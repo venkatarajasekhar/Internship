@@ -1,0 +1,14 @@
+THIS FOLDER CONTAINS FILES RELATED TO APP REVIEWS
+
+Folders 
+src - contains the source code
+input - contains sample input file 
+sample_out - contains sample output for the input in input directory 
+
+EXAMPLE:
+
+format : python src/review_analysis.py <file-containing-review-titles> <file-containing-review-description>
+> python src/review_analysis.py input/ios_titles.txt input/iso_descriptions.txt
+
+Output would list of topics 
+

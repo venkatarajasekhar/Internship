@@ -1,0 +1,13 @@
+MA State Return Rejected due to Schedule HC Worksheet
+ I am getting the following error because turbo tax online is auto filling lines on page 4 and 6 of the Schedule HC worksheet when everything should be blank after line 7 on page 1:
+
+0703 - According to the Massachusetts Department of Revenue, the Schedule HC, Health Care Information, page 2 is not completed properly. Review your entries on the Health Insurance worksheet for taxpayer (and spouse if married filing jointly), where most entries for the Schedule HC should be entered. Be sure you have not entered any negative amounts. If you meet the requirements to complete line 7, Months Covered by Health Insurance that Met Minimum Creditable Coverage, on the Health Insurance worksheet, complete the remainder of the worksheet, ONLY, if you had 4 or more consecutive months either with no insurance or insurance that did not meet the MCC requirements. If you did not have 4 or more consecutive months with no coverage, remove any entries that were made from line 8a down.
+
+I went ahead and hit "share my file with agent"
+
+
+I'm going to try to e-file again right now after deleting the Schedule HC altogether but not sure if I will get rejected again due to this.  In the meantime if there's a way for you to just delete those auto-entries that would be great.
+
+Thanks,
+
+Lauren 

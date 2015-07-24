@@ -1,0 +1,3 @@
+I am a business owner and having an issue with Turbo Tax trying to calculate my Form 8829, Part II - Figure Your Allowable Deduction&quot; - Line 8.  PLEASE HELP!!
+ My home Business Percentage is 14.55% Line # 8 "Enter the amount from Sched C, Line 29 which is $ 18,243 (but Turbo tax has entered ($13,792). I have no idea where this number is coming from.  I do a print preview and I see the 18K on the sched C but the negative 13K on sch 8829.   Any idea if its factoring in something else? Did I forget to check a box? I have been round and round and cant find what I missed to correct this. 
+ Thank you. 
